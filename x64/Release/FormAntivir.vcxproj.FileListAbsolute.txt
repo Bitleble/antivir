@@ -1,0 +1,4 @@
+C:\Users\VV\source\repos\FormAntivir\FormAntivir\x64\Release\FormAntivir.vcxproj.AssemblyReference.cache
+C:\Users\VV\source\repos\FormAntivir\FormAntivir\x64\Release\FormAntivir.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\VV\source\repos\FormAntivir\FormAntivir\x64\Release\FormAntivir.MyForm.resources
+C:\Users\VV\source\repos\FormAntivir\FormAntivir\x64\Release\FormAntivir.vcxproj.GenerateResource.cache
